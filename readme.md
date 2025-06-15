@@ -18,7 +18,7 @@ The objective is simple: guide your turtle safely across a busy street full of c
 ## 📸 Showcase
 
 | Gameplay | Level Up | Game Over |
-| --- | --- | --- |
+|---| --- | --- |
 | ![Gameplay](images/gameplay.png) | ![Level Up](images/level_up.png) | ![Game Over](images/game_over.png) |
 
 ---
@@ -57,7 +57,7 @@ Play: Use the Up arrow key to move the turtle. Reach the top to level up — dod
     │   ├── level_up.png
     │   ├── game_over.png
     ├── videos/
-    │   ├── gameplay.mp4
+    │   ├── gameplay.vlc
     └── README.md
 
 ## 👏 Credits

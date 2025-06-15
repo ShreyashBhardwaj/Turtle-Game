@@ -16,7 +16,7 @@ class CarManager:
     def create_car(self):
         new_car=Turtle()
         new_car.shape("square")
-        new_car.shapesize(stretch_wid=2,stretch_len=1)
+        new_car.shapesize(stretch_wid=1,stretch_len=2)
         random_number = random.randint(0, len(COLORS) - 1)
         new_car.y_pos = random.randint(-290, 260)
         new_car.color(COLORS[random_number])
