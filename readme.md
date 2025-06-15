@@ -57,7 +57,7 @@ Play: Use the Up arrow key to move the turtle. Reach the top to level up — dod
     │   ├── level_up.png
     │   ├── game_over.png
     ├── videos/
-    │   ├── gameplay.vlc
+    │   ├── gameplay.mp4
     └── README.md
 
 ## 👏 Credits
