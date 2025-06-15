@@ -13,13 +13,15 @@ screen = Screen()
 screen.setup(width=600, height=600)
 screen.tracer(0)
 
+player=Player()
+
 # Listen for key presses
 screen.listen()
-#screen.onkeypress(paddle_right.go_up, "Up")
+screen.onkeypress(player.player_move(), "Up")
 
 game_is_on = True
 while game_is_on:
     time.sleep(0.1)
     screen.update()
-    car = CarManager()
+    # car = CarManager()
 
